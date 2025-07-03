@@ -1,4 +1,4 @@
-# 🌐 Creative 3D Portfolio
+# 🌐 3D Portfolio
 
 Welcome to my interactive **3D Developer Portfolio**, built with a modern web tech stack to showcase projects, skills, and a journey of mindful growth. ✨
 
