@@ -24,8 +24,7 @@ Welcome to my interactive **3D Developer Portfolio**, built with a modern web te
 - 💻 Fully responsive and mobile-friendly design  
 - 🌀 Immersive 3D scenes using **Three.js**
 - 🔄 Smooth animations with **Framer Motion**
-- ⚙️ SEO optimized with **Next.js metadata**
-- 🌓 Light/Dark mode toggle  
+- ⚙️ SEO optimized with **Next.js metadata**  
 - 🔍 Modular components for easy customization
 
 ---
