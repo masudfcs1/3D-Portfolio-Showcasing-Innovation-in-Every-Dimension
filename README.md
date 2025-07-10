@@ -2,7 +2,7 @@
 
 Welcome to my interactive **3D Developer Portfolio**, built with a modern web tech stack to showcase projects, skills, and a journey of mindful growth. ✨
 
-// ![Preview](https://yourdomain.com/preview-image.jpg)
+![Preview](https://yourdomain.com/preview-image.jpg)
 
 ---
 
@@ -40,6 +40,7 @@ Welcome to my interactive **3D Developer Portfolio**, built with a modern web te
 First, run the development server:
 
 ```bash
+
 npm run dev
 
 ```
