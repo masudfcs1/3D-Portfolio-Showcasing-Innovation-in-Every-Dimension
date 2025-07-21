@@ -5,6 +5,10 @@ Welcome to my interactive **3D Developer Portfolio**, built with a modern web te
 ![Preview](https://yourdomain.com/preview-image.jpg)
 
 ---
+<img width="1827" height="904" alt="image" src="https://github.com/user-attachments/assets/b6a337b4-afdb-499c-85b4-50adbb8a482b" />
+<img width="1827" height="897" alt="image" src="https://github.com/user-attachments/assets/3f153260-9853-41bc-8311-cf5a32cc16a2" />
+<img width="1821" height="895" alt="image" src="https://github.com/user-attachments/assets/8dc2eff6-5170-4808-a9bd-672a20a619d8" />
+<img width="1835" height="899" alt="image" src="https://github.com/user-attachments/assets/81baf965-b12a-49e1-900f-7553c89a2633" />
 
 ## 🚀 Tech Stack
 
