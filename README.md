@@ -2,8 +2,6 @@
 
 Welcome to my interactive **3D Developer Portfolio**, built with a modern web tech stack to showcase projects, skills, and a journey of mindful growth. ✨
 
-![Preview](https://masudgodev.vercel.app/)
-
 ---
 <img width="1827" height="904" alt="image" src="https://github.com/user-attachments/assets/b6a337b4-afdb-499c-85b4-50adbb8a482b" />
 <img width="1827" height="897" alt="image" src="https://github.com/user-attachments/assets/3f153260-9853-41bc-8311-cf5a32cc16a2" />
